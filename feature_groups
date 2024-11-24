@@ -1,0 +1,45 @@
+// Feature Groups and Intersections
+digraph {
+	FG1 [label=FeatureGroup_1]
+	FG2 [label=FeatureGroup_2]
+	FG1_0 [label="Mathematical reasoning in word problems"]
+	FG1 -> FG1_0
+	FG1_1 [label="Percentage or proportion expressions"]
+	FG1 -> FG1_1
+	FG1_2 [label="Comparisons indicating something exceeds a reference point or target"]
+	FG1 -> FG1_2
+	FG1_3 [label="Definite article 'the' in English text"]
+	FG1 -> FG1_3
+	FG1_4 [label="Math word problems involving financial calculations"]
+	FG1 -> FG1_4
+	FG1_5 [label="Parameters in structured data formats and API requests"]
+	FG1 -> FG1_5
+	FG1_6 [label="Medical treatments requiring extended care or isolation"]
+	FG1 -> FG1_6
+	FG1_7 [label="Advanced artificial intelligence and related concepts"]
+	FG1 -> FG1_7
+	FG1_8 [label="Basic semantic relationships in logical reasoning contexts"]
+	FG1 -> FG1_8
+	FG1_9 [label="Logical conditions and constraints in problem-solving scenarios"]
+	FG1 -> FG1_9
+	FG2_0 [label="Calculating time or money required to complete a task or reach a goal"]
+	FG2 -> FG2_0
+	FG2_1 [label="Recognition of dollar sign '$' in financial contexts"]
+	FG2 -> FG2_1
+	FG2_2 [label="Currency symbols ($ and €)"]
+	FG2 -> FG2_2
+	FG2_3 [label="Math word problems involving vehicles and speed calculations"]
+	FG2 -> FG2_3
+	FG2_4 [label="Explanatory connectives in step-by-step reasoning"]
+	FG2 -> FG2_4
+	FG2_5 [label="Numerical values in math problems or quantitative descriptions"]
+	FG2 -> FG2_5
+	FG2_6 [label="The model is performing addition or counting tasks"]
+	FG2 -> FG2_6
+	FG2_7 [label="Mathematical problem-solving with costs and quantities"]
+	FG2 -> FG2_7
+	FG2_8 [label="Components of pressure or variance in technical calculations"]
+	FG2 -> FG2_8
+	FG2_10 [label="Financial calculations and totals in invoices"]
+	FG2 -> FG2_10
+}
