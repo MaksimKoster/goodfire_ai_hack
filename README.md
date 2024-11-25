@@ -42,16 +42,11 @@ Our dataset for multilingual mathematical problem-solving is available on [Huggi
    cd goodfire_ai_hack
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run experiments:
+2. Run experiments:
    - **Dataset creation**: `dataset_creation.ipynb`
    - **Visualization**: `vis_results.ipynb` and `vis_results_mix_french.ipynb`
 
-4. Explore steering experiments with `work_with_api.ipynb`.
+3. Explore steering experiments with `work_with_api.ipynb`.
 
 ---
 
@@ -63,7 +58,7 @@ Our dataset for multilingual mathematical problem-solving is available on [Huggi
 
 ### **Feature Transfer Across Languages**
 - **Shared Features Impact**:
-  ![Feature Groups](Cross-language feature transfer.png)
+  ![Feature Groups](Cross-language_feature_transfer.png)
 
 ---
 
@@ -84,6 +79,6 @@ If you use this research or dataset, please cite our work:
   title={Math Speaks All Languages: Universal Steering Features for Multilingual Accuracy},
   author={Maksim Kostritsya and others},
   year={2024},
-  url={https://github.com/<your-repo>}
+  url={https://github.com/MaksimKoster/goodfire_ai_hack.git}
 }
 ```
