@@ -63,7 +63,7 @@ Our dataset for multilingual mathematical problem-solving is available on [Huggi
 
 ### **Feature Transfer Across Languages**
 - **Shared Features Impact**:
-  ![Feature Groups](feature_groups.png)
+  ![Feature Groups](Cross-language feature transfer.png)
 
 ---
 
