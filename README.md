@@ -38,8 +38,8 @@ Our dataset for multilingual mathematical problem-solving is available on [Huggi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repo>.git
-   cd your-repo
+   git clone https://github.com/MaksimKoster/goodfire_ai_hack.git
+   cd goodfire_ai_hack
    ```
 
 2. Install dependencies:
