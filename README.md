@@ -53,7 +53,10 @@ Our dataset for multilingual mathematical problem-solving is available on [Huggi
 ## **Key Visualizations**
 
 ### **Performance Comparison**
-- **Baseline vs. Steering Results**:
+- **Baseline Results**:
+  ![Results](all_lg.png)
+
+- **Steering Results**:
   ![Results](en_ru.png)
 
 ### **Feature Transfer Across Languages**
@@ -77,7 +80,7 @@ If you use this research or dataset, please cite our work:
 ```
 @misc{kostritsya2024mathspeaks,
   title={Math Speaks All Languages: Universal Steering Features for Multilingual Accuracy},
-  author={Maksim Kostritsya and others},
+  author={Maksim Kostritsya, Kseniia Kuvshinova, Rauf Parchiev, Konstantin Polev},
   year={2024},
   url={https://github.com/MaksimKoster/goodfire_ai_hack.git}
 }
